@@ -1,7 +1,7 @@
 -- K4xHub Loader
 
 local games = {
-    [{6516141723}] = "https://raw.githubusercontent.com/Kyxles/K4xHub/main/Doors.lua",
+    [{6516141723}] = "https://raw.githubusercontent.com/Kyxles/K4xHub/main/Doors/Doors.lua",
 }
 
 for ids, url in next, games do
